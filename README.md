@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Ezama/Ezama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m Innocent,
+- 🔭 I’m Innocent Ezama,
 - 🌱 I’m a Data Scientist/Analyst
+- U + 1F600 I love generating valuable insight from data to help solve complex problems
 - 📫 How to reach me: ezama.tech@gmail.com
--->
